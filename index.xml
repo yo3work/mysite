@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on yo3work</title>
-    <link>http://example.org/</link>
+    <link>https://yo3work.github.io/mysite/</link>
     <description>Recent content in About on yo3work</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://yo3work.github.io/mysite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://yo3work.github.io/mysite/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://yo3work.github.io/mysite/about/</guid>
       <description>About Me  神奈川うまれ神奈川そだち, 現在は東京のはじっこでもぞもぞ暮らしています.
 Interest &amp;amp; Favorite 国内旅行, 海外旅行, 登山, ダイビング, キャンプ
 ボールジャグリング, Splatoonシリーズ
@@ -21,10 +21,10 @@ Travel History  2004?  韓国 | ソウル   2007  タイ | バンコク イン�
     
     <item>
       <title>Culture</title>
-      <link>http://example.org/culture/</link>
+      <link>https://yo3work.github.io/mysite/culture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/culture/</guid>
+      <guid>https://yo3work.github.io/mysite/culture/</guid>
       <description>好きなミュージシャンや作家をまとめます。
 Music くるり
 サイトウタクヤ
@@ -66,10 +66,10 @@ Books 南Q太
     
     <item>
       <title>Gohan</title>
-      <link>http://example.org/gohan/</link>
+      <link>https://yo3work.github.io/mysite/gohan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/gohan/</guid>
+      <guid>https://yo3work.github.io/mysite/gohan/</guid>
       <description>食べ歩きが好きなので、好きなお店をまとめます。
 ラーメン はしご
 こましょう
